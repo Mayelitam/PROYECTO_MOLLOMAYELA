@@ -1,11 +1,12 @@
 body {
     font-family: Arial, Helvetica;  
-    background: #e8e8e8 ; 
+    background: #873792 ; 
+    max-width: 900px;
 }
 .menu{
     list-style: none;
     padding: 0;
-    background: #092327;
+    background: #0E0C0F;
     width: 90%;
     max-width: 1000px;
     margin: auto;
@@ -16,18 +17,16 @@ body {
     color: white;
     padding: 20px;
     display: block;
+    
 }
 .menu li{
     display: inline-block;
     text-align: center;
 }
-.menu li a{
-    background:black;
-}
 body {
     list-style: none;
     padding: 0;
-    background: white;
+    background:#5e438d;
     width: 90%;
     max-width: 1000px;
     margin: auto;
