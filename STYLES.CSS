@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    padding: 20px;
+    padding: 5px;
     display: flex;
     justify-content: space-between; /* Centro y separa los elementos del encabezado */
     align-items: center; /* Alinea verticalmente los elementos */
